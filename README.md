@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sankha_deep_26" target="blank"><img src="https://img.shields.io/twitter/follow/sankha_deep_26?logo=twitter&style=for-the-badge" alt="sankha_deep_26" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Cyber Security**
 
-- 💬 Ask me about **HTML, Java, C, etc.**
+- 💬 Ask me about **Java, C, Web Devlopment**
 
 - 📫 How to reach me **ghoshsankhadeep13@gmail.com**
 
