@@ -18,7 +18,7 @@
 <a href="https://twitter.com/sankha_deep_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sankha_deep_26" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/sankhadeep-ghosh-b44085273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankhadeep ghosh" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sankhadeep.ghosh.397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sankhadeep ghosh" height="30" width="40" /></a>
-<a href="https://instagram.com/sankha_deep_ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankha_deep_ghosh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_sankha_deep_ghosh_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankha_deep_ghosh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
